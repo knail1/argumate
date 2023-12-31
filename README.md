@@ -13,3 +13,5 @@ you can whip out this handy app and say, _"thats not true! For instance, on Feb 
 
 
 This app will not help you save your marraige, if anything it would probably hurt it. However you can rest easy that you will now never lose an argument against your spouse.
+
+*Update: My wife found out about this before I could start this project, and needless to say, this project was abandoned before it even started. However if you are still interested in pursuing it, send me a pull request 😉*
